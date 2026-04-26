@@ -8,7 +8,7 @@
 
 <seealso>
     <category ref="wrs">
-        <a href="https://github.com/Skixkk/">Skixkk</a>
         <a href="https://github.com/Skixkk/employment_docs">Employment Docs</a>
+        <a href="https://github.com/Skixkk/">Skixkk</a>
     </category>
 </seealso>
